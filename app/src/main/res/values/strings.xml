@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ent_test</string>
+    <string name="title_activity_main_work">MainActivity</string>
+    <string name="title_home">Басты бет</string>
+    <string name="title_dashboard">Жетістіктер</string>
+    <string name="title_notifications">Профиль</string>
+</resources>
